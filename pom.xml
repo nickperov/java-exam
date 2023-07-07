@@ -13,6 +13,9 @@
     <module>java-certification-1z0-808</module>
     <module>java-certification-1z0-809</module>
   </modules>
-
+  <properties>
+    <maven.compiler.target>1.8</maven.compiler.target>
+    <maven.compiler.source>1.8</maven.compiler.source>
+  </properties>
 
 </project>
